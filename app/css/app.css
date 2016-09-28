@@ -1,0 +1,14 @@
+body {
+  background-color: #FFFFEA;
+  padding: 15px;
+  font-family: 'Slabo 27px', serif; }
+
+.post-wrapper {
+  width: 80%;
+  margin: 0 auto; }
+
+h1 {
+  color: #FF5E5B; }
+
+h2 {
+  color: #00CECB; }
