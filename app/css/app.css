@@ -7,8 +7,15 @@ body {
   width: 80%;
   margin: 0 auto; }
 
+.version-history {
+  background-color: #FFED66;
+  padding: 15px; }
+  .version-history em {
+    margin-right: 15px; }
+
 h1 {
-  color: #FF5E5B; }
+  color: #FF5E5B;
+  text-align: center; }
 
 h2 {
   color: #00CECB; }
